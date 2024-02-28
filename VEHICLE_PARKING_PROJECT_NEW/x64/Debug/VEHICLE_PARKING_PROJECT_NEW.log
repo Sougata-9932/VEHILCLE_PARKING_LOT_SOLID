@@ -1,0 +1,22 @@
+﻿  Admin.cpp
+  Logger.cpp
+  Payment_Processor.cpp
+  User.cpp
+  Bike.cpp
+  Bus.cpp
+  Car.cpp
+  Charge.cpp
+  Hours_Format_Duration.cpp
+  Minutes_Format_Duration.cpp
+  Parking_Spot_1D.cpp
+  Payment_Status.cpp
+  Show_All_Vehicles.cpp
+  Show_Time.cpp
+  main.cpp
+  Time.cpp
+  Transaction_Info.cpp
+  Vacant_Places.cpp
+  Vehicle.cpp
+  Wrapper.cpp
+  Generating Code...
+  VEHICLE_PARKING_PROJECT_NEW.vcxproj -> D:\CPP_PROJECTS\VEHICLE_PARKING_PROJECT_NEW\x64\Debug\VEHICLE_PARKING_PROJECT_NEW.exe
